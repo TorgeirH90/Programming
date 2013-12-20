@@ -1,0 +1,1 @@
+D:\Programmering\C++\Eget\GameTutorial\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache

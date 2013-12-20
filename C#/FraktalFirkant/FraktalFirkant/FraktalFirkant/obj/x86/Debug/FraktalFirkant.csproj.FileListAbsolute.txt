@@ -1,0 +1,7 @@
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\bin\x86\Debug\FraktalFirkant.exe
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\bin\x86\Debug\FraktalFirkant.pdb
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\obj\x86\Debug\FraktalFirkant.exe
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\obj\x86\Debug\FraktalFirkant.pdb
+D:\Programmering\C#\FraktalFirkant\FraktalFirkant\FraktalFirkant\bin\x86\Debug\Content\WhitePixel.xnb

@@ -1,0 +1,14 @@
+ParatroopersOUYA.Activity1;paratroopersouya.Activity1
+Microsoft.Devices.Sensors.Compass.SensorListener;microsoft.devices.sensors.Compass_SensorListener
+Microsoft.Xna.Framework.AndroidGameWindow;microsoft.xna.framework.AndroidGameWindow
+Microsoft.Xna.Framework.PowerStatus.BatteryStatusBroadCastReceiver;microsoft.xna.framework.PowerStatus_BatteryStatusBroadCastReceiver
+Microsoft.Xna.Framework.ScreenReceiver;microsoft.xna.framework.ScreenReceiver
+Microsoft.Xna.Framework.OrientationListener;microsoft.xna.framework.OrientationListener
+Microsoft.Devices.Sensors.Accelerometer.SensorListener;microsoft.devices.sensors.Accelerometer_SensorListener
+Microsoft.Xna.Framework.AndroidGameActivity;microsoft.xna.framework.AndroidGameActivity
+Ouya.Console.Api.ProductListListener;ouya.console.api.ProductListListener
+Ouya.Console.Api.VoidListener;ouya.console.api.VoidListener
+Ouya.Console.Api.StringListener;ouya.console.api.StringListener
+Ouya.Console.Api.ReceiptsListener;ouya.console.api.ReceiptsListener
+Ouya.Console.Api.PurchaseListener;ouya.console.api.PurchaseListener
+Ouya.Console.Api.IOuyaResponseListenerImplementor;mono.tv.ouya.console.api.OuyaResponseListenerImplementor

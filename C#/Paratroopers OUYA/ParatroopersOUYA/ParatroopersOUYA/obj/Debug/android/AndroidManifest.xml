@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="ParatroopersOUYA.ParatroopersOUYA">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="16" />
+  <application android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:alwaysRetainTaskState="true" android:configChanges="keyboard|keyboardHidden|orientation" android:icon="@drawable/icon" android:label="ParatroopersOUYA" android:launchMode="singleInstance" android:screenOrientation="sensorLandscape" android:theme="@style/Theme.Splash" android:name="paratroopersouya.Activity1" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ParatroopersOUYA.ParatroopersOUYA.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.ParatroopersOUYA.ParatroopersOUYA" />
+      </intent-filter>
+    </receiver>
+    <activity android:alwaysRetainTaskState="true" android:configChanges="keyboard|keyboardHidden|orientation" android:icon="@drawable/icon" android:label="ParatroopersOUYA" android:launchMode="singleInstance" android:screenOrientation="sensorLandscape" android:theme="@style/Mono.Android.Theme.Splash" android:name="paratroopersouya.paratroopersouya.TrialSplashScreen9af86c8f797d4ef6b17950c0e5ea08df" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="tv.ouya.intent.category.GAME" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

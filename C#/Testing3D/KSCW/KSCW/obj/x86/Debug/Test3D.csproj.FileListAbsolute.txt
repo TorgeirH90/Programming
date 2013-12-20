@@ -1,0 +1,12 @@
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Content\utedo_map.jpg
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\SDL.dll
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Test3D.exe
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Test3D.pdb
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\OpenTK.dll
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Programmering\C#\Testing3D\KSCW\KSCW\obj\x86\Debug\Test3D.csprojResolveAssemblyReference.cache
+D:\Programmering\C#\Testing3D\KSCW\KSCW\obj\x86\Debug\Test3D.exe
+D:\Programmering\C#\Testing3D\KSCW\KSCW\obj\x86\Debug\Test3D.pdb
+D:\Programmering\C#\Testing3D\KSCW\KSCW\bin\WindowsGL\Debug\Content\Wedge\Wedge.fbx

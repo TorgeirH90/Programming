@@ -1,0 +1,36 @@
+Dette programmet er laget for å gjøre map lagning til "SticksAndStones" enklere.
+løsningen før var å hive inn masse enere og nullere osv. i ei .txt fil, noe som tok lengre tid enn det burde
+
+Derfor kan man nå lage ei .png fil som heter "map.png" i input mappen og få ut resultatet i output mappen i filen "OutputMap.txt"
+Disse er hardkodet inn i programmet og jeg gidder ikke å gjøre noe med det.
+
+En pixel i bildet er en tile i spillet så det vil være lurt å zoome inn når man lager kart
+
+Husk at størrelsen på bildet vil være størrelsen på kartet, derfor må man krympe bildet/sette grenser etc.
+
+
+Farger:
+Blå er mud
+Gul er murstein1
+Svart er murstein2
+Rød er dirt1
+Brun er dirt2 
+
+
+
+Fargeverdier (Hvis man ikke bruker paint så kan man sette disse som favoritter)
+
+	R	G	B
+Blå	63	72	204
+Gul	255	242	0
+Svart	0	0	0
+Rød	237	288	36
+Brun	136	0	21
+
+
+KUN BRUK DISSE VERDIENE!
+
+
+Hvis det skjer noe feil så kan man gå å leke seg i bakgården med ei kjøttøks
+
+Hvis man farger på pixlene som ikke er spesifisert eller andre obskuriteter så blir kartet delvis forvridd og du vet at du har failet generelt i livet

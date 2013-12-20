@@ -1,0 +1,20 @@
+Loader3DS Version 2.00
+Texture path= C:\threeD\
+ChunkID = 4d4d Length: 5505
+  Version Chunk ChunkID = 2 Length: 10
+  Mesh Data Chunk ChunkID = 3d3d Length: 5265
+    Mesh Version Chunk ChunkID = 3d3e Length: 10
+    Master Scale Chunk ChunkID = 100 Length: 10
+    Named Object Chunk ChunkID = 4000 Length: 5239
+      Object Name: Cylinder00
+      Tri Object Chunk ChunkID = 4100 Length: 5222
+        Point Array Chunk ChunkID = 4110 Length: 1532
+          Number of Vertices: 127
+        Texture Vertices Array Chunk ChunkID = 4140 Length: 1024
+          Number of Texture Vertices: 127
+        Mesh Matrix Chunk ChunkID = 4160 Length: 54
+        Face Array Chunk ChunkID = 4120 Length: 2606
+          Number of Faces: 216
+          Smoothing Group Chunk ChunkID = 4150 Length: 870
+  Key Frame Chunk ChunkID = b000 Length: 224
+ChunkID = 0 Length: 0

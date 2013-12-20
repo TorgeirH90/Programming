@@ -1,0 +1,4 @@
+D:\Programmering\C#\Paratroopers OUYA\ParatroopersOUYA\ParatroopersOUYA\bin\Debug\ParatroopersOUYA.dll
+D:\Programmering\C#\Paratroopers OUYA\ParatroopersOUYA\ParatroopersOUYA\bin\Debug\MonoGame.Framework.dll
+D:\Programmering\C#\Paratroopers OUYA\ParatroopersOUYA\ParatroopersOUYA\bin\Debug\Lidgren.Network.dll
+D:\Nedlastning-Temp\ouya-csharp-master\Ouya.Console.Api\bin\Debug\Ouya.Console.Api.dll

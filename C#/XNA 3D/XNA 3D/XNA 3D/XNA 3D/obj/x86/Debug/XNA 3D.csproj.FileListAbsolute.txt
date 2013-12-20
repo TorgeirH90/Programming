@@ -1,0 +1,15 @@
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\XNA 3D.exe
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\XNA 3D.pdb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\obj\x86\Debug\XNA 3D.csprojResolveAssemblyReference.cache
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\obj\x86\Debug\XNA 3D.exe
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\obj\x86\Debug\XNA 3D.pdb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\utedo_map.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Wedge\Wedge.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\textures\wedge_p1_diff_v1_0.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Wedge\Wedge.fbx
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Sphere\BrickoSphere.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Sphere\BrickoSphere.FBX
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Sphere\BrickoSphere1.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Square\Cube.xnb
+D:\Programmering\C#\XNA 3D\XNA 3D\XNA 3D\XNA 3D\bin\x86\Debug\Content\Content\Square\Cube.FBX
